@@ -1,0 +1,46 @@
+{
+  "name": "tpst",
+  "version": "1.0.0",
+  "description": "Sistem Informasi TPST (Pencatatan Data Timbangan Sampah)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janudewangga/tpst.git"
+  },
+  "keywords": [
+    "sistem",
+    "informasi",
+    "tpst",
+    "tempat",
+    "pengelolaan",
+    "sampah",
+    "terpadu",
+    "timbangan",
+    "data",
+    "sampah"
+  ],
+  "author": "Janu Dewangga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janudewangga/tpst/issues"
+  },
+  "homepage": "https://github.com/janudewangga/tpst#readme",
+  "dependencies": {
+    "admin-lte": "^2.4.8",
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "helmet": "^3.15.0",
+    "jquery-validation": "^1.18.0",
+    "sequelize": "^4.41.2",
+    "sqlite3": "^4.0.4",
+    "validator": "^10.9.0",
+    "xss-filters": "^1.2.7"
+  }
+}
